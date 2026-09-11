@@ -1,5 +1,10 @@
 # EBEC Final Zagreb 2022 Web
 
+## Hosting
+
+Live at <https://ebecfinal.best.hr/>, served by Cloudflare Workers as static files straight from this repository.
+This repository is archived and read-only: the site it holds is finished. If something must change, unarchive it, push to `main`, and Workers Builds redeploys within a minute or two.
+
 ## Wayback Machine
 
 The site runs at <https://ebecfinal.best.hr/>. The Internet Archive's calendar for it is <https://web.archive.org/web/*/https://ebecfinal.best.hr/*>.
